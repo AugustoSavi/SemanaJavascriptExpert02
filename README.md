@@ -14,7 +14,7 @@ $ git clone https://github.com/AugustoSavi/SemanaJavascriptExpert02.git
 $ cd SemanaJavascriptExpert02
 
 # Abra o terminal e Execute o seguinte Comando
-$ for /D %I IN (*) DO cd %I && start cmd %I /k npm run firstinit && cd ..
+$ npm run start
 ```
 ### Apois isso é só abrir o navegador em [AQUI](http://localhost:8080/)
 ### Aula 01

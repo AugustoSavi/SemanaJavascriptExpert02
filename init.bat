@@ -1,1 +1,0 @@
-for /D %I IN (*) DO cd %I && start cmd %I /k npm run firstinit && cd ..

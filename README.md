@@ -14,5 +14,13 @@ Para cada dia, o código fonte completo da aula será adicionado aqui
 
     Nessa aula é trabalhado com WebRTC conceitos de comunicação Peer to Peer e Sockets, delegar funções com o padrão builder e muito mais.
     
-- Aula 03
-- Aula 04
+- [Aula 03](./aula03)
+
+    Media Recorder, a API do browser para gravação de grupos de usuários
+    
+- [Aula 04](./aula04)
+
+    publicação de todos os projetos na Web e ajustar o download dos arquivos binários gerados pelos vídeos para serem executados de qualquer lugar. 
+
+
+# depois vai ter gif mostrando o funcionamento blzzzzz

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "SET PORT=9000 npm run start",
+    "dev": "PORT=9000 npm start",
     "start": "npx peerjs --port 9000 --key peerjs --path /"
   },
   "keywords": [],
